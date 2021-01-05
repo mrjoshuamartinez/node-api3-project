@@ -95,4 +95,4 @@ We have provided test data for the resources.
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge `<firstName-lastName>` Branch into master (student's  Repo). **Please don't merge your own pull request**
+- [ ] Submit a pull request to merge `<firstName-lastName>` Branch into master (student's Repo). **Please don't merge your own pull request**
